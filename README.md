@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anis Ahmed 
-- 👀 I’m interested in Pyhton Programming
+- 👀 I’m a Frontend Developer 
 - 🌱 I’m currently learning Bachlor In Computer Science
 - 💞️ I’m looking to collaborate With multinational cpmapanies
 - 📫 How to reach me through my email,
